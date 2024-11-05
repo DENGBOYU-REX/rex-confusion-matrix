@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: RD_confusion_matrix
+Version: 0.1.0
+Summary: A package for plotting confusion matrices.
+Home-page: https://github.com/DENGBOYU-REX/rex-confusion-matrix
+Author: Boyu Rex Deng
+Author-email: dengby_29@163.com
+Classifier: Programming Language :: Python :: 3.11.10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.11
+Requires-Dist: numpy==1.26.4
+Requires-Dist: matplotlib==3.9.2
+Requires-Dist: scikit-learn==1.5.2
